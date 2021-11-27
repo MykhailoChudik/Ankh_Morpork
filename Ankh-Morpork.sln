@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ankh-Morpork", "Ankh-Morpork\Ankh-Morpork.csproj", "{3F9CD818-E000-410E-957E-009D3679BDFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnkhMorpork.MSTests", "AnkhMorpork.MSTests\AnkhMorpork.MSTests.csproj", "{C5DFCC2D-2F9F-4AC7-9338-23AC4C586DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F9CD818-E000-410E-957E-009D3679BDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9CD818-E000-410E-957E-009D3679BDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9CD818-E000-410E-957E-009D3679BDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9CD818-E000-410E-957E-009D3679BDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DFCC2D-2F9F-4AC7-9338-23AC4C586DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DFCC2D-2F9F-4AC7-9338-23AC4C586DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DFCC2D-2F9F-4AC7-9338-23AC4C586DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DFCC2D-2F9F-4AC7-9338-23AC4C586DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D410969E-CB9A-4B5B-B1EA-ED2AAEBA7DC0}
+	EndGlobalSection
+EndGlobal

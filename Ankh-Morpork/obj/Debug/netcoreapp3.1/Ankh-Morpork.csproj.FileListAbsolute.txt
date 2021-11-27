@@ -1,0 +1,14 @@
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\bin\Debug\netcoreapp3.1\Ankh-Morpork.exe
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\bin\Debug\netcoreapp3.1\Ankh-Morpork.deps.json
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\bin\Debug\netcoreapp3.1\Ankh-Morpork.runtimeconfig.json
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\bin\Debug\netcoreapp3.1\Ankh-Morpork.runtimeconfig.dev.json
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\bin\Debug\netcoreapp3.1\Ankh-Morpork.dll
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\bin\Debug\netcoreapp3.1\Ankh-Morpork.pdb
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\obj\Debug\netcoreapp3.1\Ankh-Morpork.csproj.AssemblyReference.cache
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\obj\Debug\netcoreapp3.1\Ankh-Morpork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\obj\Debug\netcoreapp3.1\Ankh-Morpork.AssemblyInfoInputs.cache
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\obj\Debug\netcoreapp3.1\Ankh-Morpork.AssemblyInfo.cs
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\obj\Debug\netcoreapp3.1\Ankh-Morpork.csproj.CoreCompileInputs.cache
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\obj\Debug\netcoreapp3.1\Ankh-Morpork.dll
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\obj\Debug\netcoreapp3.1\Ankh-Morpork.pdb
+C:\Users\mykhailo.chudik\Desktop\New folder\Ankh-Morpork\Ankh-Morpork\obj\Debug\netcoreapp3.1\Ankh-Morpork.genruntimeconfig.cache
