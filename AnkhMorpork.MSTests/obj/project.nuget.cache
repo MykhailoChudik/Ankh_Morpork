@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LzbNZmZ2H8A1JP8Wfd5kflRgHjV/XC4rgzSPHME/ZQNr35huHekEzINFLbuyiXw4ZUY+oNFEPgHsKi99tf1rkg==",
+  "dgSpecHash": "ZXLjzRyzqb21hb2rVhBVLi/h++jj7e9qd69GwPqCV9//zyEBZXvIMlosm25OL8GAMmLD82mEuhijxB1L5faIJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mykhailo.chudik\\Desktop\\New folder\\Ankh-Morpork\\AnkhMorpork.MSTests\\AnkhMorpork.MSTests.csproj",
+  "projectFilePath": "C:\\Users\\mykhailo.chudik\\Desktop\\Ankh_Morpork\\AnkhMorpork.MSTests\\AnkhMorpork.MSTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mykhailo.chudik\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\mykhailo.chudik\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

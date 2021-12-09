@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mykhailo.chudik\\Desktop\\New folder\\Ankh-Morpork\\Ankh-Morpork\\Ankh-Morpork.csproj",
+      "projectUniqueName": "C:\\Users\\mykhailo.chudik\\Desktop\\Ankh_Morpork\\Ankh-Morpork\\Ankh-Morpork.csproj",
       "projectName": "Ankh-Morpork",
-      "projectPath": "C:\\Users\\mykhailo.chudik\\Desktop\\New folder\\Ankh-Morpork\\Ankh-Morpork\\Ankh-Morpork.csproj",
+      "projectPath": "C:\\Users\\mykhailo.chudik\\Desktop\\Ankh_Morpork\\Ankh-Morpork\\Ankh-Morpork.csproj",
       "packagesPath": "C:\\Users\\mykhailo.chudik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mykhailo.chudik\\Desktop\\New folder\\Ankh-Morpork\\Ankh-Morpork\\obj\\",
+      "outputPath": "C:\\Users\\mykhailo.chudik\\Desktop\\Ankh_Morpork\\Ankh-Morpork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mykhailo.chudik\\AppData\\Roaming\\NuGet\\NuGet.Config",
